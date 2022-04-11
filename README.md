@@ -4,6 +4,4 @@
 </p>
 <p align="center">
 <a href="https://github.com/mhankbarbar/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
-<img src="https://komarev.com/ghpvc/?username=KZREVOXTICAL"/><
-
-</p>
+<img src="https://komarev.com/ghpvc/?username=KZREVOXTICAL"/></p>
