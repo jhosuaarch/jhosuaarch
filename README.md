@@ -10,4 +10,4 @@
 </p>
 
 
-![Kz](<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KZREVOXTICAL&layout=compact)
+![Kz](https://github-readme-stats.vercel.app/api/top-langs/?username=KZREVOXTICAL&layout=compact)
