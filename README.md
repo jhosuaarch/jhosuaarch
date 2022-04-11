@@ -4,6 +4,6 @@
 </p>
 <p align="center">
 <a href="https://github.com/mhankbarbar/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
-<a href="https://komarev.com/ghpvc/?username=KZREVOXTICAL"/><
+<img src="https://komarev.com/ghpvc/?username=KZREVOXTICAL"/><
 
 </p>
