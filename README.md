@@ -5,4 +5,4 @@
 <p align="center">
 <a href="https://github.com/KZREVOXTICAL/followers"><img title="Followers" src="https://img.shields.io/github/followers/KZREVOXTICAL?color=blue&style=flat-square"></a>
 <img src="https://komarev.com/ghpvc/?username=KZREVOXTICAL"/></p>
-<p align="center"><blockquote>hello</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KZREVOXTICAL&layout=compact"/></p>
