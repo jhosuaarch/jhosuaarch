@@ -1,5 +1,5 @@
 <p align="center"><img src="https://avatars.githubusercontent.com/u/80184758?s=400&u=c8438113ec47d10f58e51934c129459dcb3b876a&v=4"width="128" height="128"/></p>
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&weight=600&size=25&center=true&width=435&lines=Hallo,+saya+jhosua+👋."/></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&weight=600&size=25&center=true&width=435&lines=Jhosua."/></p>
 <p align="center">
 <a href="https://github.com/jhosuaarch"><img title="Author" src="https://img.shields.io/badge/Author-jhosuaarch-green.svg?style=for-the-badge&logo=github"></a>
 </p>
