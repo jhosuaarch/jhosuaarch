@@ -7,6 +7,7 @@
 </div>
 
 <div align="center">
+  
   ##  Sosial Media:
   
   [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jhosuazett) &nbsp;
