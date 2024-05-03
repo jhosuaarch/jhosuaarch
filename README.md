@@ -12,6 +12,7 @@
   
   [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jhosuazett) &nbsp;
   [![Discord](https://skillicons.dev/icons?i=discord)](https://www.facebook.com/kzdgzr) &nbsp;
+  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jhosuasautmaruli0079@gmail.com?subject=Hello%20Jhosua,%20From%20Github)
   
 </div>
 
