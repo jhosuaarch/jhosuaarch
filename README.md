@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://avatars.githubusercontent.com/u/80184758?s=400&u=c8438113ec47d10f58e51934c129459dcb3b876a&v=4"width="128" height="128"/>
+  <img src="https://avatars.githubusercontent.com/u/80184758?s=400&u=c8438113ec47d10f58e51934c129459dcb3b876a&v=4" width="128" height="128"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&weight=600&size=25&center=true&width=435&lines=Jhosua."/>
   
 </div>
