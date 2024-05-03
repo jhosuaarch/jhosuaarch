@@ -7,18 +7,12 @@
 </div>
 
 <div align="center">
+  ##  Sosial Media:
   
   [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jhosuazett) &nbsp;
   
 </div>
 
-<p align="center">
-<a href="https://github.com/jhosuaarch"><img title="Author" src="https://img.shields.io/badge/Author-jhosuaarch-green.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/jhosuaarch/followers"><img title="Followers" src="https://img.shields.io/github/followers/jhosuaarch?color=blue&style=flat-square"></a>
-<img src="https://komarev.com/ghpvc/?username=jhosuaarch"/>
-</p>
 <p align="center"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jhosuaarch&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"></p>
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
