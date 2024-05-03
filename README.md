@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&weight=600&size=25&center=true&width=435&lines=Jhosua."/>
   
 </div>
+
 <p align="center">
 <a href="https://github.com/jhosuaarch"><img title="Author" src="https://img.shields.io/badge/Author-jhosuaarch-green.svg?style=for-the-badge&logo=github"></a>
 </p>
