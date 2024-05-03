@@ -10,7 +10,7 @@
 
   ## 💻 My Tech Stack:
 
-[![Python, Html, css](https://skillicons.dev/icons?i=python,html,ccss)](https://skillicons.dev)
+[![Python, Html, css](https://skillicons.dev/icons?i=python,html,css)](https://skillicons.dev)
 
   
 </div>
