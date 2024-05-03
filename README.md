@@ -11,7 +11,7 @@
   ##  Sosial Media:
   
   [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jhosuazett) &nbsp;
-  [![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/kzdgzr) &nbsp;
+  [![Discord](https://skillicons.dev/icons?i=discord)](https://www.facebook.com/kzdgzr) &nbsp;
   
 </div>
 
