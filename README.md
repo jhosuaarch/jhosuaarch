@@ -7,7 +7,9 @@
 </div>
 
 <div align="center">
-  [![Twitter/X](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jhosuazett) &nbsp;
+  
+  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jhosuazett) &nbsp;
+  
 </div>
 
 <p align="center">
