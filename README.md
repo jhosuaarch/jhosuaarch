@@ -2,7 +2,7 @@
   
   <img src="https://avatars.githubusercontent.com/u/80184758?s=400&u=c8438113ec47d10f58e51934c129459dcb3b876a&v=4" width="150px" height="150px"/> &nbsp;
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&weight=600&size=25&center=true&width=435&lines=Jhosua."/> &nbsp;
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Developer;Self-Taught+UI%2FUX+designer;IoT+Junkie+;Hit+me+up%2C+I'd+love+to+work+with+you!&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22"></a> &nbsp;
   
 </div>
 
