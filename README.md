@@ -8,15 +8,19 @@
 
 <div>
 
-## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Languages, Tools and OS
+## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Languages Tools OS
 ![](https://img.shields.io/badge/Python-3?style=flat&logo=python&labelColor=white&color=f75c7e)
 ![](https://img.shields.io/badge/php-blue?style=flat&logo=php&labelColor=white&color=f75c7e)
 ![](https://img.shields.io/badge/C-blue?style=flat&logo=c&labelColor=blue&color=f75c7e)
 ![](https://img.shields.io/badge/C%2B%2B-blue?style=flat&logo=c%2B%2B&labelColor=blue&color=f75c7e)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat&logo=visual-studio-code&labelColor=blue&color=f75c7e)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&labelColor=blue&color=f75c7e)
-![](https://img.shields.io/badge/Windows-10-blue?style=flat&logo=windows&labelColor=blue&color=f75c7e)
 
+</div>
+
+<div>
+  ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>OS
+  ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&labelColor=blue&color=f75c7e)
+  ![](https://img.shields.io/badge/Windows-10-blue?style=flat&logo=windows&labelColor=blue&color=f75c7e)
 </div>
 
 
