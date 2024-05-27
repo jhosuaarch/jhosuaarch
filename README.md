@@ -13,8 +13,10 @@
 ![](https://img.shields.io/badge/php-blue?style=flat&logo=php&labelColor=white&color=f75c7e)
 ![](https://img.shields.io/badge/C-blue?style=flat&logo=c&labelColor=blue&color=f75c7e)
 ![](https://img.shields.io/badge/C%2B%2B-blue?style=flat&logo=c%2B%2B&labelColor=blue&color=f75c7e)
+![](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&labelColor=white&color=f75c7e)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=f75c7e)
+![](https://img.shields.io/badge/PyCharm-blue?style=flat&logo=pycharm&labelColor=blue&color=f75c7e)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat&logo=visual-studio-code&labelColor=blue&color=f75c7e)
-
 </div>
 
 <div>
