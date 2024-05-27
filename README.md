@@ -2,7 +2,7 @@
   
   <img src="https://avatars.githubusercontent.com/u/80184758?s=400&u=c8438113ec47d10f58e51934c129459dcb3b876a&v=4" width="150px" height="150px"/> &nbsp;
   
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hallo+Saya+Jhosua;Senang+bisa+bertemu+denganmu&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=28"></a> &nbsp;
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hallo+Saya+Jhosua;Senang+bisa+bertemu+denganmu&font=Fira%20Code&center=true&width=500&height=30&color=f75c7e&vCenter=true&size=28"></a> &nbsp;
   
 </div> &nbsp;
 
