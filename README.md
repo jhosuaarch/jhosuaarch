@@ -10,8 +10,8 @@
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Languages
 ![](https://img.shields.io/badge/Python-3?style=flat&logo=python&labelColor=white&color=f75c7e)
-![](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&labelColor=white&color=f75c7e)
-![](https://img.shields.io/badge/tailwindcss-v3.4-38B2AC?style=flat&logo=tailwindcss&labelColor=white&color=f75c7e)
+![](https://img.shields.io/badge/php-blue?style=flat&logo=php&labelColor=white&color=f75c7e)
+![](https://img.shields.io/badge/C-blue?style=flat&logo=c&labelColor=blue&color=f75c7e)
 ![](https://img.shields.io/badge/C%2B%2B-blue?style=flat&logo=c%2B%2B&labelColor=blue&color=f75c7e)
 </div>
 
