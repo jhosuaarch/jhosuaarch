@@ -41,8 +41,9 @@
   
 </div>
 
-
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://buymeacoffee.com/jhosuafluxuel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<div>
+ 
+  ## <img src=" https://raw.githubusercontent.com/jhosuaarch/jhosuaarch/main/buymeacoffee-color.svg" width="50"> Buy me a Coffe
+  <a href="https://buymeacoffee.com/jhosuafluxuel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+  
+</div>
