@@ -18,9 +18,11 @@
 </div>
 
 <div>
+
   ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>OS
   ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&labelColor=blue&color=f75c7e)
   ![](https://img.shields.io/badge/Windows-10-blue?style=flat&logo=windows&labelColor=blue&color=f75c7e)
+  
 </div>
 
 
