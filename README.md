@@ -8,8 +8,8 @@
 
 <div>
 
-## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Languages and tools
-  
+## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Languages
+![](https://img.shields.io/badge/Python-3?style=flat&logo=python&labelColor=white&color=f75c7e)
 </div>
 
 
