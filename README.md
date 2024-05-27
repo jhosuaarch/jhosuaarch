@@ -32,17 +32,16 @@
   ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
 
 <a href="https://github.com/Chemutaiselim/Chemutaiselim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chemutaiselim&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=f75c7e&bg_color=1d1f21" alt="Chemutai's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhosuaarch&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=f75c7e&bg_color=1d1f21" alt="Chemutai's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Chemutaiselim/Chemutaiselim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chemutaiselim&hide=java,html,Makefile,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhosuaarch&hide=java,html,Makefile,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
   
 </div>
 
 
-<p align="center"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jhosuaarch&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"></p>
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
