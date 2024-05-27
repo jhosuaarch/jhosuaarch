@@ -4,11 +4,6 @@
   
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hallo+Saya+Jhosua;Senang+bisa+bertemu+denganmu&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22"></a> &nbsp;
 
-  <audio controls>
-  <source src="https://raw.githubusercontent.com/jhosuaarch/jhosuaarch/main/UnsheathedZoroRap.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-  
 </div> &nbsp;
 
 <div>
