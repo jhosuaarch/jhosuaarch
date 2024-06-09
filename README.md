@@ -8,7 +8,7 @@
 
 <div>
 
-## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Languages Tools OS
+## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Languages and Tools
 ![](https://img.shields.io/badge/Python-3?style=flat&logo=python&labelColor=white&color=f75c7e)
 ![](https://img.shields.io/badge/php-blue?style=flat&logo=php&labelColor=white&color=f75c7e)
 ![](https://img.shields.io/badge/C-blue?style=flat&logo=c&labelColor=blue&color=f75c7e)
