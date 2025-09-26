@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Seventeen Lirik</title>
+        <style>
+            body {
+                margin: 0;
+                height: 100vh;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background-color: #000000;
+                overflow: hidden;
+            }
+            .start {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                padding: 10px 20px;
+                border-radius: 6px;
+                font-size: 16px;
+                color: white;
+                background-color: rgb(76, 76, 198);
+                cursor: pointer;
+                transition: all 0.3s ease;
+                border: none;
+                z-index: 100;
+            }
+            .start:hover {
+                background-color: rgb(96, 96, 255);
+                transform: translate(-50%, -50%) scale(1.1);
+                box-shadow: 0 0 15px rgba(76, 76, 198, 0.5);
+            }
+            .hidden {
+                display: none;
+            }
+            .content-container {
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                display: none;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column;
+            }
+            
+            .video-wrapper {
+                width: 80%;
+                max-width: 800px;
+                opacity: 0;
+                margin-top: -150px;
+                transition: opacity 0.5s ease;
+                text-align: center;
+            }
+
+            .video-wrapper.show {
+                opacity: 1;
+            }
+
+            #myVideo {
+                width: 100%;
+                height: 200px;
+                border-radius: 8px;
+                margin: 0 auto;
+            }
+
+            .text-wrapper {
+                position: absolute;
+                bottom: 30%;
+                left: 50%;
+                transform: translateX(-50%);
+                width: 100%;
+                text-align: center;
+            }
+
+            .video-text {
+                color: white;
+                font-size: 18px;
+                font-family: Arial, sans-serif;
+                text-shadow: 0 0 10px rgba(255, 255, 255, 0.5),
+                             0 0 20px rgba(255, 255, 255, 0.3),
+                             0 0 30px rgba(255, 255, 255, 0.2);
+                font-weight: 600;
+                letter-spacing: 2px;
+                
+                padding: 15px 30px;
+                border-radius: 10px;
+                opacity: 0;
+                transition: opacity 0.3s ease;
+                display: inline-block;
+            }
+
+            .fade-in {
+                opacity: 1;
+                animation: textScale 1s ease-out;
+            }
+            
+            @media (max-width: 767px) {
+                .text-wrapper {
+                    bottom: 40%;
+                }
+                .video-text {
+                    font-size: 15px;
+                }
+            }
+            
+        </style>
+    </head>
+    <body>
+        <div class="content-container">
+            <div class="video-wrapper">
+                <video id="myVideo" loop>
+                    <source src="assets/video.mp4" type="video/mp4">
+                    Browser Anda tidak mendukung tag video.
+                </video>
+            </div>
+            <div class="text-wrapper">
+                <p class="video-text"></p>
+            </div>
+        </div>
+         <audio id="myAudio" loop>
+            <source src="assets/music.mp3" type="audio/mp3">
+        </audio>
+        <button class="start">MULAI</button>
+        <script>
+            const startButton = document.querySelector('.start');
+            const video = document.getElementById('myVideo');
+            const container = document.querySelector('.content-container');
+            const videoWrapper = document.querySelector('.video-wrapper');
+            const textElement = document.querySelector('.video-text');
+            const audio = document.getElementById('myAudio');
+
+            const lyrics = [
+                { text: "Cita-citamu menjadi seorang hair stylist", delay: 3000, animationSpeed: 0.3 },
+                { text: "Waktu itu kamu pernah bercerita", delay: 3500, animationSpeed: 0.4 },
+                { text: "Walau tak seperti", delay: 2000, animationSpeed: 1 },
+                { text: "yang kamu bayangkan", delay: 2000, animationSpeed: 1 },
+                { text: "Kamu terlihat bahagia...", delay: 4500, animationSpeed: 0.3 },
+                { text: "Aku...", delay: 900, animationSpeed: 0.8 },
+                { text: "jadi lega", delay: 900, animationSpeed: 0.4 },
+                { text: "Kudengar kalau", delay: 1400, animationSpeed: 0.5 },
+                { text: "kamu sudah menikah", delay: 2000, animationSpeed: 0.5 },
+                { text: "Aku terlambat", delay: 1600, animationSpeed: 0.5 },
+                { text: "bilang suka kepadamu", delay: 2000, animationSpeed: 0.4 },
+                { text: "Kudengar kamu pun", delay: 2000, animationSpeed: 0.8 },
+                { text: "sekarang punya anak", delay: 1800, animationSpeed: 0.8 },
+                { text: "Tak sanggup memanggilmu", delay: 2500, animationSpeed: 0.8 },
+                { text: "farewell masa mudaku...", delay: 3000, animationSpeed: 0.5 },
+            ];
+
+            let currentLyricIndex = 0;
+            let timeoutId = null;
+
+            function setAnimationSpeed(speedInSeconds) {
+                const style = document.createElement('style');
+                style.innerHTML = `
+                    .fade-in {
+                        animation: textScale ${speedInSeconds}s ease-out !important;
+                    }
+                `;
+                document.head.appendChild(style);
+            }
+
+            function showNextLyric() {
+                textElement.classList.remove('fade-in');
+                
+                requestAnimationFrame(() => {
+                    textElement.textContent = lyrics[currentLyricIndex].text;
+                    setAnimationSpeed(lyrics[currentLyricIndex].animationSpeed);
+                    textElement.classList.add('fade-in');
+                    
+                    timeoutId = setTimeout(() => {
+                        currentLyricIndex = (currentLyricIndex + 1);
+                        
+                        // Cek apakah sudah mencapai akhir lirik
+                        if (currentLyricIndex >= lyrics.length) {
+                            currentLyricIndex = 0; // Reset ke awal
+                            // Tambahkan delay sebelum mulai ulang
+                            setTimeout(() => {
+                                showNextLyric();
+                            }, 1800); // Delay 5 detik sebelum mulai ulang
+                        } else {
+                            showNextLyric();
+                        }
+                    }, lyrics[currentLyricIndex].delay);
+                });
+            }
+
+            startButton.addEventListener('click', () => {
+                startButton.classList.add('hidden');
+                container.style.display = 'flex';
+                
+                // Mulai video dengan fade in
+                requestAnimationFrame(() => {
+                    audio.play();
+                    video.play();
+                    videoWrapper.classList.add('show');
+                    
+                    // Mulai menampilkan lirik setelah video muncul
+                    setTimeout(showNextLyric, 500);
+                });
+            });
+        </script>
+    </body>
+</html>
